@@ -1,10 +1,2 @@
 __pycache__
-qa_value_dict_min_max
-qa_value_dict_min_max_per_ch
-sent1_vh
-sent1_vv
-sent2_qa_b1-b4
-qa_value_dict_full.json
-qa_value_dict.json
-sentinel_vh_image_alignment_train.json
-sentinel_vv_image_alignment_train.json
+/**/__pycache__/
