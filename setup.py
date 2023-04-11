@@ -10,6 +10,7 @@ setup(
         'numpy',
         'tqdm',
         'matplotlib',
+        'sklearn'
         
     ],
 )
